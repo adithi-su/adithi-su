@@ -1,4 +1,4 @@
-### My GitHub Stats
+### Hi, I'm Adithi S Upadhya 👋
 
 <!--![Adithi git stats 1](https://github.com/adithi-su/git-stats/blob/master/generated/overview.svg)-->
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=adithi-su&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="adithi-su" /></a>
